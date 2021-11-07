@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+    hello-world:
+        image: hello-world
+    laba01:
+        build: laba01/
